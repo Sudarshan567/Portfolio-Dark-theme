@@ -287,7 +287,7 @@ ul{
 }
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-    background-image: url(rathinam.jpg);
+    background-image: url(./assets/rathinam.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #bbb;
@@ -361,7 +361,7 @@ ul{
 }
 /* Style the front side (fallback if image is missing) */
 .flip-card-front1 {
-    background-image: url(school1.jpg);
+    background-image: url(./assets/school1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #bbb;
@@ -434,7 +434,7 @@ ul{
 }
 /* Style the front side (fallback if image is missing) */
 .flip-card-front2 {
-    background-image: url(school3.jpg);
+    background-image: url(./assets/school3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #bbb;
